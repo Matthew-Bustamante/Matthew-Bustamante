@@ -9,6 +9,8 @@ public class Main {
 		myStatement.printStatement();
 		myStatement.setStatement("Hola");
 		myStatement.printStatement();
+		myStatement.setStatement("Well Now");
+		myStatement.printStatement();
 	}
 
 }
