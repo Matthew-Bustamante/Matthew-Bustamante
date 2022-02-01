@@ -7,6 +7,8 @@ public class Main {
 		myStatement.printStatement();
 		myStatement.setStatement("Hello There");
 		myStatement.printStatement();
+		myStatement.setStatement("Hola");
+		myStatement.printStatement();
 	}
 
 }
