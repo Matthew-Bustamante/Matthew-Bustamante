@@ -1,4 +1,4 @@
-package practicePackage;
+package statementClass;
 
 public class Main {
 	public static void main(String[] args) {

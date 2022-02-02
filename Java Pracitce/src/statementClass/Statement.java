@@ -1,4 +1,4 @@
-package practicePackage;
+package statementClass;
 
 public class Statement {
 	
@@ -12,11 +12,6 @@ public class Statement {
 	public void setStatement(String newStatement) {
 		//sets a new Statement
 		sentence = newStatement;
-	}
-	
-	public String getStatement() {
-		//returns the current statement
-		return sentence;
 	}
 	
 	public void printStatement() {
